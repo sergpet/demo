@@ -1,0 +1,16 @@
+out
+*.iml
+*.ipr
+*.iws
+mlogs
+build
+.gradle
+gradle
+*.swp
+*.swo
+*.jsb3
+*_qps_PLOC.properties
+.idea
+jshint-out.txt
+gradlew
+gradlew.bat
